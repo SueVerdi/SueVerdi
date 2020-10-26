@@ -14,7 +14,6 @@ public class SueVerdi {
         System.out.println("d= " + d);
         System.out.println("e= " + e);
         System.out.println("h= " + h);
-
     }
 }
 
